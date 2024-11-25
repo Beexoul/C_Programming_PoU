@@ -1,0 +1,7 @@
+Step1: Start
+Step2: Declare n, fact
+Step3: Read value for n
+Step4: Set fact = 1
+Step5: For i = 1 to n, multiply fact by i
+Step6: Display fact
+Step7: End

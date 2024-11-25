@@ -1,0 +1,7 @@
+
+Step1: Start
+Step2: Declare P, R, T, and SI
+Step3: Read values for P (Principal), R (Rate of Interest), and T (Time in years)
+Step4: Calculate SI = (P * R * T) / 100
+Step5: Display the value of SI
+Step6: End

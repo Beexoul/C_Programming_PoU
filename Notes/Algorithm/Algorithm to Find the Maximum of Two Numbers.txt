@@ -1,0 +1,7 @@
+Step1: Start
+Step2: Declare two variables, a and b
+Step3: Read values for a and b
+Step4: If a > b, then maximum = a
+Step5: Else maximum = b
+Step6: Display maximum
+Step7: End

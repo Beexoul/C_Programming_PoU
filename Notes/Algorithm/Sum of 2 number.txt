@@ -1,0 +1,7 @@
+
+Step1: Start
+Step2 : Declare a,b and Sum
+Step3 : Read a and b
+Step4 : Calculate Sum = a + b
+Step5 : Display Sum
+Step6 : End
